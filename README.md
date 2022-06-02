@@ -14,7 +14,7 @@
 ## My GitHub Stats 📊
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mqddabdillah&show_icons=true&theme=nightowl&locale=en" alt="mqddabdillah" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mqddabdillah&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mqddabdillah" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mqddabdillah&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mqddabdillah" /></p>
 
 <!--
 ### Hi there 👋
